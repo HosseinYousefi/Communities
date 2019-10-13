@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+            android:id="@+id/navigation_messages_bank"
+            android:icon="@android:drawable/stat_notify_chat"
+            android:title="@string/title_messages_bank"/>
+
+    <item
+            android:id="@+id/navigation_friends"
+            android:icon="@drawable/circles"
+            android:title="@string/title_communities"/>
+
+    <item
+            android:id="@+id/navigation_all_contacts"
+            android:icon="@drawable/contact"
+            android:title="@string/title_all_contacts"/>
+
+</menu>
